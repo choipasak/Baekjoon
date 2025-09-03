@@ -8,10 +8,10 @@ public class TestCaseSum {
         StringBuilder sb = new StringBuilder();
         int t = sc.nextInt();
         int i = 1;
-        while (i <= t){
+        while (i <= t) {
             int a = sc.nextInt();
             int b = sc.nextInt();
-            sb.append(a+b + "\n");
+            sb.append(a + b + "\n");
             i++;
         }
         System.out.println(sb);
