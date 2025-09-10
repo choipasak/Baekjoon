@@ -12,5 +12,6 @@ public class No_11718 {
       sb.append(line + "\n");
     }
     System.out.print(sb);
+
   }
 }
