@@ -1,4 +1,4 @@
-package programmers;
+package programmers.코딩_기초_트레이닝;
 
 public class 문자열겹쳐쓰기 {
   public String solution(String my_string, String overwrite_string, int s) {

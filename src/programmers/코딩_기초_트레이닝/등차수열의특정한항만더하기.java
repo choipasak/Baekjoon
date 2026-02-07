@@ -1,4 +1,4 @@
-package programmers;
+package programmers.코딩_기초_트레이닝;
 
 public class 등차수열의특정한항만더하기 {
   static class Solution {

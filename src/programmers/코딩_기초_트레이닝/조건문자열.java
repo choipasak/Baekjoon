@@ -1,4 +1,4 @@
-package programmers;
+package programmers.코딩_기초_트레이닝;
 
 public class 조건문자열 {
   class Solution {

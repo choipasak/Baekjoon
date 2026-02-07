@@ -1,4 +1,4 @@
-package programmers;
+package programmers.코딩_기초_트레이닝;
 
 public class 수조작하기2 {
   class Solution {

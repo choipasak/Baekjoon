@@ -1,4 +1,4 @@
-package programmers;
+package programmers.코딩_기초_트레이닝;
 
 public class 홀짝에따라다른값반환하기 {
   class Solution {
